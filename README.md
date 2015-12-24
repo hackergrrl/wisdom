@@ -9,11 +9,13 @@ I've collected and wanted to keep somewhere.
 http://www.perlmonks.org/?node_id=542341
 
 
-## node
+## node & javascript
 
-https://github.com/substack/blog/blob/master/node_aesthetic.markdown
+High Level JS Style: https://gist.github.com/dominictarr/2401787
 
-http://callbackhell.com/
+Node Aesthetic: https://github.com/substack/blog/blob/master/node_aesthetic.markdown
+
+Callbacks: http://callbackhell.com
 
 
 ## the unix way
