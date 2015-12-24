@@ -15,6 +15,8 @@ High Level JS Style: https://gist.github.com/dominictarr/2401787
 
 Node Aesthetic: https://github.com/substack/blog/blob/master/node_aesthetic.markdown
 
+Stream Handbook: https://github.com/substack/stream-handbook
+
 Callbacks: http://callbackhell.com
 
 
