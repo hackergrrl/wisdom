@@ -6,21 +6,27 @@ I've collected and wanted to keep somewhere.
 
 ## problem solving
 
-http://www.perlmonks.org/?node_id=542341
+[The "XY Problem"](http://www.perlmonks.org/?node_id=542341)
 
+
+## hacking
+
+["Applied Philosophy a.k.a. 'Hacking'"](http://feross.org/applied-philosophy-a-k-a-hacking/)
 
 ## node & javascript
 
-High Level JS Style: https://gist.github.com/dominictarr/2401787
+[High Level JS Style](https://gist.github.com/dominictarr/2401787)
 
-Node Aesthetic: https://github.com/substack/blog/blob/master/node_aesthetic.markdown
+[Node Aesthetic](https://github.com/substack/blog/blob/master/node_aesthetic.markdown)
 
-Stream Handbook: https://github.com/substack/stream-handbook
+[Stream Handbook](https://github.com/substack/stream-handbook)
 
-Callbacks: http://callbackhell.com
+[Callbacks](http://callbackhell.com)
 
 
 ## the unix way
+
+[Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 
 https://github.com/substack/blog/blob/master/many_things.markdown
 
