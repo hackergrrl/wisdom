@@ -4,6 +4,11 @@ Some bits of wisdom--much of it about programming; much of it about NodeJS--that
 I've collected and wanted to keep somewhere.
 
 
+## success
+
+[Hamming, "You and Your Research"](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+
+
 ## fundamental-oriented thinking
 
 [Cutting through to what matters](http://bradfield.institute/knives/)
