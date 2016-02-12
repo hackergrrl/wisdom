@@ -59,3 +59,6 @@ In particular:
 > that a decision has been made at all so it's much harder to identify problems
 > when the assumptions grounded in that technology choice no longer apply.
 
+## open source community
+
+[A Taxonomy of Help Vampires](http://jasonwryan.com/blog/2012/03/17/vampires/)
