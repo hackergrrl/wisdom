@@ -9,7 +9,7 @@ I've collected and wanted to keep somewhere.
 [Hamming, "You and Your Research"](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 
 
-## fundamental-oriented thinking
+## fundamentals-oriented thinking
 
 [Cutting through to what matters](http://bradfield.institute/knives/)
 > This is not a general disdain for the new: they want to see innovation as
@@ -23,6 +23,7 @@ I've collected and wanted to keep somewhere.
 > digging until they hit bedrock; who understood foundational ideas and
 > technologies well enough to improve upon them.
 
+[You Aren't Gonna Need It](http://c2.com/cgi/wiki?YouArentGonnaNeedIt)
 
 ## problem solving
 
