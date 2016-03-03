@@ -1,6 +1,6 @@
 # wisdom
 
-Some bits of wisdom--much of it about programming; much of it about NodeJS--that
+Some bits of wisdom--much of it about programming; much of it about software engineering and NodeJS--that
 I've collected and wanted to keep somewhere.
 
 
@@ -63,3 +63,7 @@ In particular:
 ## open source community
 
 [A Taxonomy of Help Vampires](http://jasonwryan.com/blog/2012/03/17/vampires/)
+
+## anticapitalism
+
+[Types of Anticapitalism & Real Utopias](https://www.jacobinmag.com/2015/12/erik-olin-wright-real-utopias-anticapitalism-democracy/)
