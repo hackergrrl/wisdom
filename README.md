@@ -25,6 +25,8 @@ I've collected and wanted to keep somewhere.
 
 [You Aren't Gonna Need It](http://c2.com/cgi/wiki?YouArentGonnaNeedIt)
 
+[Emtpy Your Cup](http://sachachua.com/blog/2015/02/getting-started-emacs-empty-cup/)
+
 ## problem solving
 
 [The "XY Problem"](http://www.perlmonks.org/?node_id=542341)
