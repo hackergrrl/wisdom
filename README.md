@@ -69,3 +69,8 @@ In particular:
 ## anticapitalism
 
 [Types of Anticapitalism & Real Utopias](https://www.jacobinmag.com/2015/12/erik-olin-wright-real-utopias-anticapitalism-democracy/)
+
+## technology
+
+[Holistic and Prescriptive
+Technologies](https://en.wikipedia.org/wiki/Ursula_Franklin#Holistic_and_prescriptive_technologies)
