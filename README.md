@@ -31,6 +31,16 @@ I've collected and wanted to keep somewhere.
 
 [The "XY Problem"](http://www.perlmonks.org/?node_id=542341)
 
+## software engineering
+
+[How Software Gets
+Bloated](http://hackingdistributed.com/2016/04/05/how-software-gets-bloated/)
+
+> It's hard to get new developers interested in a software project if we force
+> them to not just learn how it works, but also how it got there, because its
+> process of evolution is so critical to the final shape it ended up in. [...]
+> These kinds of clever tricks incur, not a technical, but a social debt that
+> strictly accrues over time.
 
 ## hacking
 
