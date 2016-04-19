@@ -31,6 +31,8 @@ I've collected and wanted to keep somewhere.
 
 [The "XY Problem"](http://www.perlmonks.org/?node_id=542341)
 
+[Fundamental Attribution Error](http://www.aaronsw.com/weblog/nummi)
+
 ## software engineering
 
 [How Software Gets
