@@ -86,3 +86,8 @@ In particular:
 
 [Holistic and Prescriptive
 Technologies](https://en.wikipedia.org/wiki/Ursula_Franklin#Holistic_and_prescriptive_technologies)
+
+## productivity
+
+> no internet makes you significantly more productive than bad internet -- @feross
+
