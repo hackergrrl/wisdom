@@ -91,3 +91,6 @@ Technologies](https://en.wikipedia.org/wiki/Ursula_Franklin#Holistic_and_prescri
 
 > no internet makes you significantly more productive than bad internet -- @feross
 
+## people
+
+[The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm)
