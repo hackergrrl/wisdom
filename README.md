@@ -87,6 +87,8 @@ In particular:
 [Holistic and Prescriptive
 Technologies](https://en.wikipedia.org/wiki/Ursula_Franklin#Holistic_and_prescriptive_technologies)
 
+[The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk)
+
 ## productivity
 
 > no internet makes you significantly more productive than bad internet -- @feross
