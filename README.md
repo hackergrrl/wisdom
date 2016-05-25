@@ -35,6 +35,8 @@ I've collected and wanted to keep somewhere.
 
 ## software engineering
 
+[Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+
 [How Software Gets
 Bloated](http://hackingdistributed.com/2016/04/05/how-software-gets-bloated/)
 
