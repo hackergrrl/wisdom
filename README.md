@@ -1,7 +1,9 @@
 # wisdom
 
-Some bits of wisdom--much of it about programming; much of it about software engineering and NodeJS--that
-I've collected and wanted to keep somewhere.
+Some bits of wisdom--much of it about programming; much of it about software
+engineering and NodeJS--that I've collected and wanted to keep somewhere.
+
+Have suggested reading? Open an issue! :tada:
 
 
 ## success
@@ -45,6 +47,14 @@ Bloated](http://hackingdistributed.com/2016/04/05/how-software-gets-bloated/)
 > process of evolution is so critical to the final shape it ended up in. [...]
 > These kinds of clever tricks incur, not a technical, but a social debt that
 > strictly accrues over time.
+
+[dumb predictable tools](https://www.reddit.com/r/node/comments/3t5frz/forever_doesnt_run_forever_node_v4_any_updates_on/)
+
+> it's better for your tool to be dumb and work in predictable ways than to
+> implement surprising "convenience" behaviors. The presence of magic numbers
+> set by default is a good indicator that some tool is too "smart" for its own
+> good and will cause you grief.
+
 
 ## hacking
 
