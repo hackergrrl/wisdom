@@ -78,9 +78,11 @@ Bloated](http://hackingdistributed.com/2016/04/05/how-software-gets-bloated/)
 
 [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 
-https://github.com/substack/blog/blob/master/many_things.markdown
+[Hints for Writing UNIX Tools](http://monkey.org/~marius/unix-tools-hints.html)
 
-In particular:
+[Many
+Things](https://github.com/substack/blog/blob/master/many_things.markdown); in
+particular:
 
 > When frameworks make your decisions for you, you very often won't even realize
 > that a decision has been made at all so it's much harder to identify problems
