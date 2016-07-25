@@ -39,6 +39,8 @@ Have suggested reading? Open an issue! :tada:
 
 [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 
+[The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM)
+
 [How Software Gets
 Bloated](http://hackingdistributed.com/2016/04/05/how-software-gets-bloated/)
 
