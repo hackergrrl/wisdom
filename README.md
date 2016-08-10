@@ -29,6 +29,9 @@ Have suggested reading? Open an issue! :tada:
 
 [Emtpy Your Cup](http://sachachua.com/blog/2015/02/getting-started-emacs-empty-cup/)
 
+[Hiding Behind
+Pillars](http://web.archive.org/web/20141010002101/http://gapingvoid.com/2004/07/31/pillar-management/)
+
 ## problem solving
 
 [The "XY Problem"](http://www.perlmonks.org/?node_id=542341)
