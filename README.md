@@ -68,6 +68,7 @@ Bloated](http://hackingdistributed.com/2016/04/05/how-software-gets-bloated/)
 
 ["Applied Philosophy a.k.a. 'Hacking'"](http://feross.org/applied-philosophy-a-k-a-hacking/)
 
+[How to Become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
 ## node & javascript
 
