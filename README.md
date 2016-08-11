@@ -40,6 +40,9 @@ Pillars](http://web.archive.org/web/20141010002101/http://gapingvoid.com/2004/07
 
 ## software engineering
 
+[How to be a
+Programmer](https://web.archive.org/web/20150912025917/http://samizdat.mines.edu/howto/HowToBeAProgrammer.html)
+
 [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 
 [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM)
