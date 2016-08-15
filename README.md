@@ -38,6 +38,9 @@ Pillars](http://web.archive.org/web/20141010002101/http://gapingvoid.com/2004/07
 
 [Fundamental Attribution Error](http://www.aaronsw.com/weblog/nummi)
 
+[The 15 minute
+rule](https://www.reddit.com/r/MachineLearning/comments/4w6tsv/ama_we_are_the_google_brain_team_wed_love_to/d6diast)
+
 ## software engineering
 
 [How to be a
