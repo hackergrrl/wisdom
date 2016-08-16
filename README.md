@@ -104,9 +104,12 @@ particular:
 
 [A Taxonomy of Help Vampires](http://jasonwryan.com/blog/2012/03/17/vampires/)
 
-## anticapitalism
+## power structures in society
 
 [Types of Anticapitalism & Real Utopias](https://www.jacobinmag.com/2015/12/erik-olin-wright-real-utopias-anticapitalism-democracy/)
+
+['Teaching a man to fish' parable is a
+lie](https://www.youtube.com/watch?v=fPcIumnhB8I)
 
 ## technology
 
