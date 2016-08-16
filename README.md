@@ -5,7 +5,7 @@ engineering and NodeJS--that I've collected and wanted to keep somewhere.
 
 Have suggested reading? Open an issue! :tada:
 
-## Table of Contents
+## index
  - [success](#success)
  - [fundamentals-oriented thinking](#fundamentals-oriented-thinking)
  - [problem solving](#problem-solving)
@@ -17,7 +17,6 @@ Have suggested reading? Open an issue! :tada:
  - [power structures in society](#power-structures-in-society)
  - [technology](#technology)
  - [productivity](#productivity)
----
 
 
 ## success
