@@ -111,6 +111,8 @@ particular:
 ['Teaching a man to fish' parable is a
 lie](https://www.youtube.com/watch?v=fPcIumnhB8I)
 
+[The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm)
+
 ## technology
 
 [Holistic and Prescriptive
@@ -122,6 +124,3 @@ Technologies](https://en.wikipedia.org/wiki/Ursula_Franklin#Holistic_and_prescri
 
 > no internet makes you significantly more productive than bad internet -- @feross
 
-## people
-
-[The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm)
