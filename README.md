@@ -5,6 +5,20 @@ engineering and NodeJS--that I've collected and wanted to keep somewhere.
 
 Have suggested reading? Open an issue! :tada:
 
+## Table of Contents
+ - [success](#success)
+ - [fundamentals-oriented thinking](#fundamentals-oriented-thinking)
+ - [problem solving](#problem-solving)
+ - [software engineering](#software-engineering)
+ - [hacking](#hacking)
+ - [node &amp; javascript](#node-javascript)
+ - [the unix way](#the-unix-way)
+ - [open source community](#open-source-community)
+ - [power structures in society](#power-structures-in-society)
+ - [technology](#technology)
+ - [productivity](#productivity)
+---
+
 
 ## success
 
