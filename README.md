@@ -79,6 +79,9 @@ Bloated](http://hackingdistributed.com/2016/04/05/how-software-gets-bloated/)
 > set by default is a good indicator that some tool is too "smart" for its own
 > good and will cause you grief.
 
+[a note about git commit
+messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+
 
 ## hacking
 
