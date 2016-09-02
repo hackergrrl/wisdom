@@ -82,6 +82,9 @@ Bloated](http://hackingdistributed.com/2016/04/05/how-software-gets-bloated/)
 [a note about git commit
 messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
+[The Law of Leaky
+Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
+
 
 ## hacking
 
