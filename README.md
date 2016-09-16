@@ -22,7 +22,12 @@ Have suggested reading? Open an issue! :tada:
 ## success
 
 [Hamming, "You and Your Research"](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+[aggregation of marginal gains](http://jamesclear.com/marginal-gains)
+[repititions, not goals](http://jamesclear.com/repetitions)
+[plan for failure](http://jamesclear.com/plan-failure)
 
+> "Success is a few simple disciplines, practiced every day; while failure is
+> simply a few errors in judgment, repeated every day." —Jim Rohn
 
 ## fundamentals-oriented thinking
 
