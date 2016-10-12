@@ -90,6 +90,8 @@ messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 [The Law of Leaky
 Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
+[How to Design a Good API and Why it Matters](https://ipfs.io/ipfs/QmPfoRGcepNCWeVL5QvazR5MvyTXzVSH8UXUYbsbWbtrbg/api_design.pdf)
+
 
 ## hacking
 
