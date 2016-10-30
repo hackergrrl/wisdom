@@ -144,6 +144,17 @@ lie](https://www.youtube.com/watch?v=fPcIumnhB8I)
 [Holistic and Prescriptive
 Technologies](https://en.wikipedia.org/wiki/Ursula_Franklin#Holistic_and_prescriptive_technologies)
 
+[Four Arguments for the Elimination of
+Television](https://www.ratical.org/ratville/AoS/4Args4ElimTV.html)
+
+[Telekommunisten Manifesto](http://media.telekommunisten.net/manifesto.pdf)
+
+[Notes toward a Neo-Luddite
+Manifesto](http://theanarchistlibrary.org/library/chellis-glendinning-notes-toward-a-neo-luddite-manifesto)
+
+[Absence of the
+Sacred](https://www.ratical.org/ratville/AoS/AbsenceOfTheSacred.txt)
+
 [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk)
 
 ## productivity
