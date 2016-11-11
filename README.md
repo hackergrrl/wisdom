@@ -101,6 +101,8 @@ Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
 ## node & javascript
 
+[Pragmatic Modularity](http://mafintosh.com/pragmatic-modularity.html)
+
 [High Level JS Style](https://gist.github.com/dominictarr/2401787)
 
 [Node Aesthetic](https://github.com/substack/blog/blob/master/node_aesthetic.markdown)
