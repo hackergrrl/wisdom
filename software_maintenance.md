@@ -36,3 +36,19 @@ A well balanced architecture, with not too many and not too few components, of u
 # Keep your codebase small
 
 A large system is difficult to maintain because more code needs to be analyzed, changed, and tested. Also, maintenance productivity _per line of code_ is lower in a large system than in a small system.
+
+# write automated tests
+
+# write clean code
+
+1. leave no unit-level code smells behind
+  1. long units
+  2. branching units
+  3. units /w large interfaces
+2. leave no bad comments behind
+3. leave no code in comments behind
+4. leave no dead code behind
+5. leave no long identifier names behind
+6. leave no magic constants behind
+7. leave no badly handled exceptions / error cases behind
+
