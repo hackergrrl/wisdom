@@ -159,6 +159,8 @@ Sacred](https://www.ratical.org/ratville/AoS/AbsenceOfTheSacred.txt)
 
 [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk)
 
+[The Internet with a Human Face](http://idlewords.com/talks/internet_with_a_human_face.htm)
+
 ## productivity
 
 > no internet makes you significantly more productive than bad internet -- @feross
