@@ -165,3 +165,6 @@ Sacred](https://www.ratical.org/ratville/AoS/AbsenceOfTheSacred.txt)
 
 > no internet makes you significantly more productive than bad internet -- @feross
 
+## Other lists
+
+See [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) for other lists like this on GitHub.
