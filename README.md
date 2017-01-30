@@ -165,6 +165,12 @@ Sacred](https://www.ratical.org/ratville/AoS/AbsenceOfTheSacred.txt)
 
 > no internet makes you significantly more productive than bad internet -- @feross
 
-## Other lists
+## interesting people
 
-See [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) for other lists like this on GitHub.
+- https://en.wikipedia.org/wiki/Diogenes
+- https://en.wikipedia.org/wiki/Epictetus
+
+## meta
+
+see also [meta-knowledge](https://github.com/RichardLitt/meta-knowledge)
+
