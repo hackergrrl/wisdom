@@ -29,3 +29,22 @@ a near endless source of free wisdom for the aspiring adventurer of the mind.
 Dewey Decimal class 290 is for *Other Religions* -- you can find *Buddhism* (and
 many others) under 294.
 
+
+## Being Open
+
+It cannot be overstated the importance of openness.
+
+Expect nothing. This sounds bleak, but it's about the idea that when you don't
+expect anything from other people or things, they will delight you over and over
+again -- all without any disappointments.
+
+Cherish people for their oddities and idiosyncracies. Don't hold them up to your
+own set of values you live by: they aren't you.
+
+See each of the world's disregards of your expectations as an opportunity, not a
+cosmic insult.
+
+It took a long time for me to realize that people can tell the difference
+between when you're open or closed. Be open with others. Confidence is borne
+from trust.
+
