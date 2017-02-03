@@ -1,4 +1,12 @@
-# Books I've Read
+# Buddhism & Zen
+
+I've been studying buddhism since August 2016. Quite by accident in fact, when I
+came across *Fearless* by Brenda Shoshanna, whose heady mixture of modern
+psychology and ancient buddhist wisdom acted as a gateway drug into a whole new
+way of looking at my mind and the world.
+
+
+## Books I've Read
 
 - *Fearless: The 7 Principles of Peace of Mind* by Brenda Shoshanna
 - *Reflections of Zen*
@@ -9,7 +17,7 @@
 - (reading) *Expect Nothing* by Clarice Bryan
 - (reading) *Stages of Meditation* by Dalai Lama XIV
 
-# Finding Books
+## Finding Books
 
 Buddhism and zen have been around for an exceedingly long time. This works to
 your advantage in many ways. One such way is that your public library will
