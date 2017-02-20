@@ -14,8 +14,11 @@ way of looking at my mind and the world.
 - *The Issue at Hand* by Gil Fronsdal
 - *Fear: Essential Wisdom for Getting Through the Storm* by Thich Nhat Hanh
 - *Smile at Fear* by Chogyan Trungpa
-- (reading) *Expect Nothing* by Clarice Bryan
-- (reading) *Stages of Meditation* by Dalai Lama XIV
+- *Expect Nothing* by Clarice Bryan
+- *Stages of Meditation* by Dalai Lama XIV
+- *The Best Buddhist Writing of 2011* by Melvin McLeod (Editor), various
+- (reading) *Peace is Every Step* by Thich Nhat Hanh
+
 
 ## Finding Books
 
