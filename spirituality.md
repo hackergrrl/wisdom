@@ -17,7 +17,9 @@ way of looking at my mind and the world.
 - *Expect Nothing* by Clarice Bryan
 - *Stages of Meditation* by Dalai Lama XIV
 - *The Best Buddhist Writing of 2011* by Melvin McLeod (Editor), various
-- (reading) *Peace is Every Step* by Thich Nhat Hanh
+- *Peace is Every Step* by Thich Nhat Hanh
+- *Radical Acceptance* by Tara Brach
+- (reading) *The Authentic Life* by Ezra Bayda
 
 
 ## Finding Books
@@ -45,9 +47,15 @@ Cherish people for their oddities and idiosyncracies. Don't hold them up to your
 own set of values you live by: they aren't you.
 
 See each of the world's disregards of your expectations as an opportunity, not a
-cosmic insult.
+cosmic insult. Learn to explore, not expect.
 
 It took a long time for me to realize that people can tell the difference
-between when you're open or closed. Be open with others. Confidence is borne
-from trust.
+between when you're open or closed. We can't connect with closed people. We cannot connect with others when we are closed. Be open with others. Confidence is borne from trust.
+
+
+## Also: **NOT** spirituality
+
+TODO: maybe rename this page to 'wisdom' or 'clarity' or 'human_growth'?
+
+- http://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html
 
