@@ -6,6 +6,7 @@ engineering and NodeJS--that I've collected and wanted to keep somewhere.
 Have suggested reading? Open an issue! :tada:
 
 ## index
+ - [personal growth](#personal-growth)
  - [success](#success)
  - [fundamentals-oriented thinking](#fundamentals-oriented-thinking)
  - [problem solving](#problem-solving)
@@ -18,6 +19,10 @@ Have suggested reading? Open an issue! :tada:
  - [technology](#technology)
  - [productivity](#productivity)
 
+## personal growth
+
+- http://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html
+- http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html
 
 ## success
 
