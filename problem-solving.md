@@ -26,6 +26,16 @@ thinking part of our brain shuts down and the primitive responses of fight,
 flight, or go numb take over. it might feel like you can't think, are confused,
 or in a fog
 
+this is kind of cool because you can empirically verify it quite easily: ask
+yourself to solve a math problem, like 7 * 35, and watch your mind grapple with
+it. if I'm in a state of cognitive shock, I'll fumble over the numbers like
+they're slick and wet, unable to work the math in my head or get started. I take
+a few breaths, acknowledge that I'm stuck in cognitive shock and have powerful
+emotions going on, and after several seconds (or minutes) I find that the
+solution is workable and comes easily. trying to force yourself to do problem
+solving when you're in cognitive shock is a sure-fire way to feel worse about
+yourself: you're struggling to do even basic thinking and can't!
+
 stay in the present. when your mind wanders and you catch it, reel it back to
 the feelings in the body of the present moment. label the feelings as you
 recognize them; this helps to recognize them and grasp that they're just
