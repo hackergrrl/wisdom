@@ -135,6 +135,8 @@ particular:
 
 ## open source community
 
+[How to Capture an Open Source Project](http://hintjens.com/blog:68)
+
 [A Taxonomy of Help Vampires](http://jasonwryan.com/blog/2012/03/17/vampires/)
 
 ## power structures in society
