@@ -8,18 +8,20 @@ way of looking at my mind and the world.
 
 ## Books I've Read
 
-- *Fearless: The 7 Principles of Peace of Mind* by Brenda Shoshanna
+- **+** *Fearless: The 7 Principles of Peace of Mind* by Brenda Shoshanna
 - *Reflections of Zen*
 - *Rebel Budda* by Dzogchen Ponlop
-- *The Issue at Hand* by Gil Fronsdal
-- *Fear: Essential Wisdom for Getting Through the Storm* by Thich Nhat Hanh
+- **+** *The Issue at Hand* by Gil Fronsdal
+- **+** *Fear: Essential Wisdom for Getting Through the Storm* by Thich Nhat Hanh
 - *Smile at Fear* by Chogyan Trungpa
 - *Expect Nothing* by Clarice Bryan
 - *Stages of Meditation* by Dalai Lama XIV
 - *The Best Buddhist Writing of 2011* by Melvin McLeod (Editor), various
 - *Peace is Every Step* by Thich Nhat Hanh
-- *Radical Acceptance* by Tara Brach
-- (reading) *The Authentic Life* by Ezra Bayda
+- **+** *Radical Acceptance* by Tara Brach
+- **+** *The Authentic Life* by Ezra Bayda
+
+**+**: I found particularly insightful. Recommended.
 
 
 ## Finding Books
