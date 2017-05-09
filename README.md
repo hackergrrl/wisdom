@@ -48,6 +48,8 @@ Have suggested reading? Open an issue! :tada:
 > digging until they hit bedrock; who understood foundational ideas and
 > technologies well enough to improve upon them.
 
+[Exploiting Unrecognized Simplicities](https://www.farnamstreetblog.com/2016/01/andy-benoit-unrecognized-simplicity/)
+
 [You Aren't Gonna Need It](http://c2.com/cgi/wiki?YouArentGonnaNeedIt)
 
 [Emtpy Your Cup](http://sachachua.com/blog/2015/02/getting-started-emacs-empty-cup/)
