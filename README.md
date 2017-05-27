@@ -12,7 +12,7 @@ Have suggested reading? Open an issue! :tada:
  - [problem solving](#problem-solving)
  - [software engineering](#software-engineering)
  - [hacking](#hacking)
- - [node &amp; javascript](#node-javascript)
+ - [node &amp; javascript](#node--javascript)
  - [the unix way](#the-unix-way)
  - [open source community](#open-source-community)
  - [power structures in society](#power-structures-in-society)
