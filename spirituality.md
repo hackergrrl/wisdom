@@ -1,9 +1,13 @@
-# Buddhism & Zen
+# Buddhism, Zen, Stoicism, ...
 
 I've been studying buddhism since August 2016. Quite by accident in fact, when I
 came across *Fearless* by Brenda Shoshanna, whose heady mixture of modern
 psychology and ancient buddhist wisdom acted as a gateway drug into a whole new
 way of looking at my mind and the world.
+
+In more recent times, I've also been studying ancient and modern stoic writings
+and trying to experiment with putting these ideas into practice in my day to day
+life.
 
 
 ## Books I've Read
@@ -23,6 +27,11 @@ way of looking at my mind and the world.
 - *The Zen of You and Me* by Diane Musho Hamilton
 
 **+**: I found particularly insightful; recommended.
+
+## Books I'm Looking For
+
+- *A Guide to the Good Life: The Ancient Art of Stoic Joy*
+- *On the Shortness of Life*
 
 
 ## Finding Books
