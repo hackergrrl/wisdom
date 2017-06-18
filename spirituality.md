@@ -12,6 +12,8 @@ life.
 
 ## Books I've Read
 
+### Buddhism & Zen
+
 - **+** *Fearless: The 7 Principles of Peace of Mind* by Brenda Shoshanna
 - *Reflections of Zen*
 - *Rebel Budda* by Dzogchen Ponlop
@@ -28,24 +30,30 @@ life.
 
 **+**: I found particularly insightful; recommended.
 
+### Stoicism
+
+This reading list is still budding.
+
+- http://www.traditionalstoicism.com/2015/12/28/the-path-of-the-prokopton-the-discipline-of-assent/
+
+**+**: I found particularly insightful; recommended.
+
 ## Books I'm Looking For
 
 - *A Guide to the Good Life: The Ancient Art of Stoic Joy*
 - *On the Shortness of Life*
-
+- *Stoicism* by John Sellars
+- *Stoic Serenity* by Keith Seddon
+- *The Inner Citadel* by Pierre Hadot
 
 ## Finding Books
 
-Buddhism and zen have been around for an exceedingly long time. This works to
-your advantage in many ways. One such way is that your public library will
-likely be a great resource for such books.
+Many spiritual practices have been around for an exceedingly long time. This
+works to your advantage in many ways. One such way is that your public library
+will likely be a great resource for such books.
 
-My local library has many dozens of books on the subject, providing a near
+Your local library will have dozens of books on the subject, providing a near
 endless source of free wisdom for the aspiring adventurer of the mind.
-
-Dewey Decimal class 290 is for *Other Religions* -- you can find *Buddhism* (and
-many others) under 294.
-
 
 ## Being Open
 
@@ -62,4 +70,6 @@ See each of the world's disregards of your expectations as an opportunity, not a
 cosmic insult. Learn to explore, not expect.
 
 It took a long time for me to realize that people can tell the difference
-between when you're open or closed. We can't connect with closed people. We cannot connect with others when we are closed. Be open with others. Confidence is borne from trust.
+between when you're open or closed. We can't connect with closed people. We
+cannot connect with others when we are closed. Be open with others. Confidence
+is borne from trust.
