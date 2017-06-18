@@ -40,6 +40,7 @@ This reading list is still budding.
 
 ## Books I'm Looking For
 
+- *The Obstacle Is The Way*
 - *A Guide to the Good Life: The Ancient Art of Stoic Joy*
 - *On the Shortness of Life*
 - *Stoicism* by John Sellars
