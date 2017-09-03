@@ -35,6 +35,9 @@ life.
 This reading list is still budding.
 
 - http://www.traditionalstoicism.com/2015/12/28/the-path-of-the-prokopton-the-discipline-of-assent/
+- [The Enchiridion](http://classics.mit.edu/Epictetus/epicench.html) by Epictetus
+- [Eckhart Tolle on "Epictetus &
+  Stoicsim"](https://www.youtube.com/watch?v=e7RSdiwECgc)
 
 **+**: I found particularly insightful; recommended.
 
