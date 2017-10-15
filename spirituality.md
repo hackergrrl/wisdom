@@ -41,6 +41,10 @@ This reading list is still budding.
 
 **+**: I found particularly insightful; recommended.
 
+### Alternative Living
+
+- **+** *The Man Who Quit Money* by Mark Sundeen
+
 ## Books I'm Looking For
 
 - *The Obstacle Is The Way*
