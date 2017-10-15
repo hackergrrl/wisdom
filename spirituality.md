@@ -43,6 +43,7 @@ This reading list is still budding.
 
 ### Alternative Living
 
+- **+** *Voyaging on a Small Budget* by Annie Hill
 - **+** *The Man Who Quit Money* by Mark Sundeen
 
 ## Books I'm Looking For
