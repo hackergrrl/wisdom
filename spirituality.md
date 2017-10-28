@@ -1,16 +1,41 @@
-# Buddhism, Zen, Stoicism, ...
+# Buddhism, Zen, Stoicism, Taoism, ...
 
-I've been studying buddhism since August 2016. Quite by accident in fact, when I
-came across *Fearless* by Brenda Shoshanna, whose heady mixture of modern
-psychology and ancient buddhist wisdom acted as a gateway drug into a whole new
-way of looking at my mind and the world.
+I studied buddhist texts in earnest since August 2016 to maybe mid 2017: quite
+by accident in fact, when I came across *Fearless* by Brenda Shoshanna, whose
+heady mixture of modern psychology and ancient buddhist wisdom acted as a
+gateway drug into a whole new way of looking at my mind and the world.
 
-In more recent times, I've also been studying ancient and modern stoic writings
-and trying to experiment with putting these ideas into practice in my day to day
-life.
+Buddhism led to a deep dive into ancient Greek stoicism.
+
+This led to a dive into alternative living thought, such as Annie Hill and,
+significantly impactfully, [Daniel Suelo](https://en.wikipedia.org/wiki/Suelo).
+
+Suelo's writings have got me started now down the brilliant writings of the
+[Peace Pilgrim](http://www.peacepilgrim.com), and that of the ancient [Tao Te
+Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html).
+
+I study these ideas regularly and try to integrate them into my day to day life.
 
 
-## Books I've Read
+## Things I've Read
+
+### Alternative Living
+
+- **+** *Voyaging on a Small Budget* by Annie Hill
+- **+** *The Man Who Quit Money* by Mark Sundeen
+- [Peace Pilgrim](http://www.peacepilgrim.com/steps1.htm)
+- [Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html)
+
+### Stoicism
+
+This reading list is still budding.
+
+- http://www.traditionalstoicism.com/2015/12/28/the-path-of-the-prokopton-the-discipline-of-assent/
+- [The Enchiridion](http://classics.mit.edu/Epictetus/epicench.html) by Epictetus
+- [Eckhart Tolle on "Epictetus &
+  Stoicsim"](https://www.youtube.com/watch?v=e7RSdiwECgc)
+
+**+**: I found particularly insightful; recommended.
 
 ### Buddhism & Zen
 
@@ -30,21 +55,6 @@ life.
 
 **+**: I found particularly insightful; recommended.
 
-### Stoicism
-
-This reading list is still budding.
-
-- http://www.traditionalstoicism.com/2015/12/28/the-path-of-the-prokopton-the-discipline-of-assent/
-- [The Enchiridion](http://classics.mit.edu/Epictetus/epicench.html) by Epictetus
-- [Eckhart Tolle on "Epictetus &
-  Stoicsim"](https://www.youtube.com/watch?v=e7RSdiwECgc)
-
-**+**: I found particularly insightful; recommended.
-
-### Alternative Living
-
-- **+** *Voyaging on a Small Budget* by Annie Hill
-- **+** *The Man Who Quit Money* by Mark Sundeen
 
 ## Books I'm Looking For
 
