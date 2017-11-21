@@ -19,23 +19,29 @@ I study these ideas regularly and try to integrate them into my day to day life.
 
 ## Things I've Read
 
+(I'm slowly starting to realize that these categories are pretty arbitrary;
+these books all seemt o be about the same things.)
+
+### "General" Spirituality
+
+- **+** *A New Earth* by Eckhart Tolle
+- [Peace Pilgrim](http://www.peacepilgrim.com/steps1.htm)
+
+### Taoism
+
+- [Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html)
+
 ### Alternative Living
 
 - **+** *Voyaging on a Small Budget* by Annie Hill
 - **+** *The Man Who Quit Money* by Mark Sundeen
-- [Peace Pilgrim](http://www.peacepilgrim.com/steps1.htm)
-- [Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html)
 
 ### Stoicism
 
-This reading list is still budding.
-
 - http://www.traditionalstoicism.com/2015/12/28/the-path-of-the-prokopton-the-discipline-of-assent/
 - [The Enchiridion](http://classics.mit.edu/Epictetus/epicench.html) by Epictetus
-- [Eckhart Tolle on "Epictetus &
-  Stoicsim"](https://www.youtube.com/watch?v=e7RSdiwECgc)
-
-**+**: I found particularly insightful; recommended.
+- [Eckhart Tolle on "Epictetus & Stoicsim"](https://www.youtube.com/watch?v=e7RSdiwECgc)
+- *Ego is the Enemy* by Ryan Holiday
 
 ### Buddhism & Zen
 
@@ -54,7 +60,6 @@ This reading list is still budding.
 - *The Zen of You and Me* by Diane Musho Hamilton
 
 **+**: I found particularly insightful; recommended.
-
 
 ## Books I'm Looking For
 
