@@ -19,22 +19,22 @@ I study these ideas regularly and try to integrate them into my day to day life.
 
 ## Things I've Read
 
-(I'm slowly starting to realize that these categories are pretty arbitrary;
-these books all seemt o be about the same things.)
+**+**: I found particularly insightful; recommended.
 
 ### "General" Spirituality
 
 - **+** *A New Earth* by Eckhart Tolle
-- [Peace Pilgrim](http://www.peacepilgrim.com/steps1.htm)
+- **+** [Peace Pilgrim](http://www.peacepilgrim.com/steps1.htm)
 
 ### Taoism
 
-- [Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html)
+- **+** [Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html)
 
-### Alternative Living
+### Living
 
 - **+** *Voyaging on a Small Budget* by Annie Hill
 - **+** *The Man Who Quit Money* by Mark Sundeen
+- (WIP) **+** *Walden* by Henry Thoreau
 
 ### Stoicism
 
@@ -58,8 +58,7 @@ these books all seemt o be about the same things.)
 - **+** *Radical Acceptance* by Tara Brach
 - **+** *The Authentic Life* by Ezra Bayda
 - *The Zen of You and Me* by Diane Musho Hamilton
-
-**+**: I found particularly insightful; recommended.
+- **+** *Everyday Zen* by Charlotte Joko Beck
 
 ## Books I'm Looking For
 
@@ -81,7 +80,7 @@ endless source of free wisdom for the aspiring adventurer of the mind.
 
 ## Being Open
 
-It cannot be overstated the importance of openness.
+I can't overstate the importance of openness.
 
 Expect nothing. This sounds bleak, but it's about the idea that when you don't
 expect anything from other people or things, they will delight you over and over
