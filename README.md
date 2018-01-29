@@ -123,6 +123,10 @@ Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
 [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 
+[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)
+
+[UNIX as an IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/)
+
 [Hints for Writing UNIX Tools](http://monkey.org/~marius/unix-tools-hints.html)
 
 [Many
