@@ -1,23 +1,77 @@
 # wisdom
 
-Some bits of wisdom--much of it about programming; much of it about software
-engineering and NodeJS--that I've collected and wanted to keep somewhere.
+Some bits of wisdom: much of it about technology, spirituality, and free
+sustainable living -- that I've collected and wanted to keep somewhere.
 
 Have suggested reading? Open an issue! :tada:
 
-## index
- - [personal growth](#personal-growth)
- - [success](#success)
- - [fundamentals-oriented thinking](#fundamentals-oriented-thinking)
- - [problem solving](#problem-solving)
- - [software engineering](#software-engineering)
- - [hacking](#hacking)
- - [node &amp; javascript](#node--javascript)
- - [the unix way](#the-unix-way)
- - [open source community](#open-source-community)
- - [power structures in society](#power-structures-in-society)
- - [technology](#technology)
- - [productivity](#productivity)
+ - [Sustainable Living](#sustainable-living)
+ - [Self Growth](#self-growth)
+ - [Spirituality](#spirituality)
+ - [Technology](#technology)
+   - [success](#success)
+   - [fundamentals-oriented thinking](#fundamentals-oriented-thinking)
+   - [problem solving](#problem-solving)
+   - [software engineering](#software-engineering)
+   - [hacking](#hacking)
+   - [node &amp; javascript](#node--javascript)
+   - [the unix way](#the-unix-way)
+   - [open source community](#open-source-community)
+   - [power structures in society](#power-structures-in-society)
+   - [technology](#technology)
+   - [productivity](#productivity)
+
+**+**: I found particularly insightful; recommended.
+
+# Sustainable Living
+
+- (WIP) **+** *The Bay Area Forager* by Mia Andler and Kevin Feinstein
+- (WIP) *Dude Making a Difference* by Rob Greenfield
+
+# Self Growth
+
+- **+** *Voyaging on a Small Budget* by Annie Hill
+- **+** *The Man Who Quit Money* by Mark Sundeen
+- (WIP) **+** *Walden* by Henry Thoreau
+- [Religion for the Nonreligious](http://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html)
+- [Taming the Mammoth: Why You Should Stop Caring What Other People Think](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
+
+# Spirituality
+
+## "General" Spirituality
+
+- **+** *A New Earth* by Eckhart Tolle
+- **+** [Peace Pilgrim](http://www.peacepilgrim.com/steps1.htm)
+
+## Taoism
+
+- **+** [Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html)
+
+## Stoicism
+
+- [The Enchiridion](http://classics.mit.edu/Epictetus/epicench.html) by Epictetus
+- [Eckhart Tolle on "Epictetus & Stoicsim"](https://www.youtube.com/watch?v=e7RSdiwECgc)
+- *Ego is the Enemy* by Ryan Holiday
+- [The Discipline of Assent](http://www.traditionalstoicism.com/2015/12/28/the-path-of-the-prokopton-the-discipline-of-assent/)
+
+## Buddhism & Zen
+
+- **+** *Fearless: The 7 Principles of Peace of Mind* by Brenda Shoshanna
+- *Reflections of Zen*
+- *Rebel Budda* by Dzogchen Ponlop
+- **+** *The Issue at Hand* by Gil Fronsdal
+- **+** *Fear: Essential Wisdom for Getting Through the Storm* by Thich Nhat Hanh
+- *Smile at Fear* by Chogyan Trungpa
+- *Expect Nothing* by Clarice Bryan
+- *Stages of Meditation* by Dalai Lama XIV
+- *The Best Buddhist Writing of 2011* by Melvin McLeod (Editor), various
+- *Peace is Every Step* by Thich Nhat Hanh
+- **+** *Radical Acceptance* by Tara Brach
+- **+** *The Authentic Life* by Ezra Bayda
+- *The Zen of You and Me* by Diane Musho Hamilton
+- **+** *Everyday Zen* by Charlotte Joko Beck
+
+# Technology
 
 ## personal growth
 
