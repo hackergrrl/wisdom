@@ -73,11 +73,6 @@ Have suggested reading? Open an issue! :tada:
 
 # Technology
 
-## personal growth
-
-- http://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html
-- http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html
-
 ## success
 
 [Hamming, "You and Your Research"](https://www.youtube.com/watch?v=a1zDuOPkMSw)
