@@ -178,6 +178,8 @@ Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
 [Hints for Writing UNIX Tools](http://monkey.org/~marius/unix-tools-hints.html)
 
+[Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
+
 [Many
 Things](https://github.com/substack/blog/blob/master/many_things.markdown); in
 particular:
