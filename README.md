@@ -1,4 +1,4 @@
-v# wisdom
+# wisdom
 
 Some bits of wisdom: much of it about technology, spirituality, and free
 sustainable living -- that I've collected and wanted to keep somewhere.
