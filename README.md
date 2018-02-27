@@ -85,7 +85,7 @@ Have suggested reading? Open an issue! :tada:
 
 ## fundamentals-oriented thinking
 
-[Cutting through to what matters](http://bradfield.institute/knives/)
+[Cutting through to what matters](https://bradfieldcs.com/knives/)
 > This is not a general disdain for the new: they want to see innovation as
 > much as anybody, but are skeptical of newborn frameworks, tools and technologies
 > that fail to embody the timeless principles that they've found
