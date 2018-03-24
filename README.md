@@ -25,14 +25,16 @@ Have suggested reading? Open an issue! :tada:
 
 # Sustainable Living
 
-- (WIP) **+** *The Bay Area Forager* by Mia Andler and Kevin Feinstein
-- (WIP) *Dude Making a Difference* by Rob Greenfield
+- (WIP) **+** *The Bay Area Forager* by Mia Andler and [Kevin Feinstein](http://feralkevin.com/)
+- [Rob Greenfield](http://robgreenfield.tv/)
+- [The Moneyless Manifesto](http://www.moneylessmanifesto.org/book/) by Mark Boyle
+- [Moneyless World](https://zerocurrency.blogspot.com/)
+- **+** *The Man Who Quit Money* by Mark Sundeen
+- **+** *Voyaging on a Small Budget* by Annie Hill
+- (WIP) **+** *Walden* by Henry Thoreau
 
 # Self Growth
 
-- **+** *Voyaging on a Small Budget* by Annie Hill
-- **+** *The Man Who Quit Money* by Mark Sundeen
-- (WIP) **+** *Walden* by Henry Thoreau
 - [Religion for the Nonreligious](http://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html)
 - [Taming the Mammoth: Why You Should Stop Caring What Other People Think](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 
