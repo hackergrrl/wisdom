@@ -27,7 +27,7 @@ Have suggested reading? Open an issue! :tada:
 
 - (WIP) **+** *The Bay Area Forager* by Mia Andler and [Kevin Feinstein](http://feralkevin.com/)
 - [Rob Greenfield](http://robgreenfield.tv/)
-- [The Moneyless Manifesto](http://www.moneylessmanifesto.org/book/) by Mark Boyle
+- [The Moneyless Manifesto](http://www.moneylessmanifesto.org/book/foreword-by-charles-eisenstein/) by Mark Boyle
 - [Moneyless World](https://zerocurrency.blogspot.com/)
 - **+** *The Man Who Quit Money* by Mark Sundeen
 - **+** *Voyaging on a Small Budget* by Annie Hill
