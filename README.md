@@ -157,7 +157,7 @@ Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
 ## node & javascript
 
-[Pragmatic Modularity](http://mafintosh.com/pragmatic-modularity.html)
+[Pragmatic Modularity](https://mafinto.sh/blog/pragmatic-modularity.html)
 
 [High Level JS Style](https://gist.github.com/dominictarr/2401787)
 
@@ -237,4 +237,3 @@ Sacred](https://www.ratical.org/ratville/AoS/AbsenceOfTheSacred.txt)
 ## meta
 
 see also [meta-knowledge](https://github.com/RichardLitt/meta-knowledge)
-
