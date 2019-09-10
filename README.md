@@ -5,6 +5,7 @@ sustainable living -- that I've collected and wanted to keep somewhere.
 
 Have suggested reading? Open an issue! :tada:
 
+ - [Healing from Trauma](#healing-from-trauma)
  - [Sustainable Living](#sustainable-living)
  - [Self Growth](#self-growth)
  - [Spirituality](#spirituality)
@@ -22,6 +23,10 @@ Have suggested reading? Open an issue! :tada:
    - [productivity](#productivity)
 
 **+**: I found particularly insightful; recommended.
+
+# Healing from Trauma
+
+- **+** *The Body Keeps Score*: the most effective & interesting book I've ever read on trauma. This helped me so much in understanding what trauma is, the depths of how it effects us, and how to start to heal. Highly recommended if you have trauma or even suspect you might.
 
 # Sustainable Living
 
