@@ -210,6 +210,8 @@ lie](https://www.youtube.com/watch?v=fPcIumnhB8I)
 
 [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm)
 
+Small is Beautiful: Economics as if People Mattered
+
 ## technology
 
 [Holistic and Prescriptive
@@ -233,11 +235,6 @@ Sacred](https://www.ratical.org/ratville/AoS/AbsenceOfTheSacred.txt)
 ## productivity
 
 > no internet makes you significantly more productive than bad internet -- @feross
-
-## interesting people
-
-- https://en.wikipedia.org/wiki/Diogenes
-- https://en.wikipedia.org/wiki/Epictetus
 
 ## meta
 
